@@ -6,10 +6,10 @@
   <p align="center">
     Anti Rejection for ur crush (ew yuck)
     <br />
-    <a href="https://kenzueee.github.io/yes-or-yes/">View Demo</a>
+    <a href="https://kenzueee.github.io/personal-portfolio2/">View Demo</a>
     ·
-    <a href="https://github.com/kenzueee/yes-or-yes/issues">Report Bug</a>
+    <a href="https://github.com/kenzueee/personal-portfolio2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kenzueee/yes-or-yes/issues">Request Feature</a>
+    <a href="https://github.com/kenzueee/personal-portfolio2/issues">Request Feature</a>
   </p>
 </div>
